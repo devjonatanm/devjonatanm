@@ -33,5 +33,4 @@ programmer()
         <a href="https://stackshare.io/vscode" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /></a>
 <a href="https://stackshare.io/nodejs" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a>
         <a href="https://stackshare.io/vuejs" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
-        <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
     </p>
